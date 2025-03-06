@@ -1,1 +1,1 @@
-sudo xbps-install -S libX11-devel libXinerama-devel libXcursor-devel libXrandr-devel
+sudo xbps-install wayland wayland-devel wayland-protocols
